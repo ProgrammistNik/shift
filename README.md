@@ -28,8 +28,8 @@ REST-сервис для просмотра текущей зарплаты и �
 1. **Клонировать репозиторий**
 
    ```bash
-   git clone https://gitlab.com/mitrioss/salary-service.git
-   cd salary-service
+   git clone https://gitlab.com/ProgrammistNik/shift.git
+   cd shift
    ```
 
 2. **Установка зависимостей**
@@ -79,8 +79,8 @@ REST-сервис для просмотра текущей зарплаты и �
 1. **Клонировать репозиторий**
 
    ```bash
-   git clone https://gitlab.com/mitrioss/salary-service.git
-   cd salary-service
+   git clone https://gitlab.com/ProgrammistNik/salary-shift.git
+   cd shift
    ```
 
 3. **Создать файл окружения `.env`**
@@ -172,8 +172,3 @@ http://localhost:8000/docs
 ```
 http://localhost:8000/redoc
 ```
-
-## Автор
-
-**Разработчик:** [sapronov.dmitrii19@yandex.com](mailto:sapronov.dmitrii19@yandex.com)  
-**GitHub:** [https://github.com/mitrioss/salary-service](https://github.com/mitrioss/salary-service)
